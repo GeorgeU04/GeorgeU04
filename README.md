@@ -1,6 +1,6 @@
 # Hi there, I'm George Umberger 👋
 
-Welcome to my GitHub profile! I'm a passionate embedded C programmer who is studying computer engineering. I love working on new projects and learning new skills. Here's a little bit about me:
+Welcome to my GitHub profile! I'm a passionate low-level programmer who is studying computer engineering. I love working on new projects and learning new skills. Here's a little bit about me:
 
 ## 🔧 Technologies & Tools
 
