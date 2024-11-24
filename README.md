@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm a passionate low-level programmer who is study
 
 ## 🌱 What I'm currently learning
 
-- STM32 C Programming 
+- ATMEGA328P C Programming 
 - Data Structures in C
 
 Thanks for visiting my profile! Feel free to check out my repositories and get in touch with me if you have any questions or collaboration ideas.
