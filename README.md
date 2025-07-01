@@ -1,4 +1,4 @@
-# Hi there, I'm George Umberger 👋
+# Hi I'm George Umberger 👋
 
 Welcome to my GitHub profile! I'm a passionate low-level programmer who is studying computer engineering. I love working on new projects and learning new skills. Here's a little bit about me:
 
